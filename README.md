@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m a recent graduate 
 - 💬 Ask me about Computer Science
 - 📫 How to reach me: sarthakbhatt@gmail.com
