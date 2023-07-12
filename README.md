@@ -5,7 +5,6 @@
 - 📫 How to reach me: sarthakbhatt@gmail.com
 - 😄 Pronouns: He/Him
 
----
 ### Interesting Links
 ---
 - [Resume](https://github.com/dewonlupin/Resume/blob/main/SB.pdf)
